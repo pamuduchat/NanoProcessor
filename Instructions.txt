@@ -1,0 +1,19 @@
+Important:
+In the Slow_Clk component, count is set to 2 for the simulation purpose. But the bitsteam is generated with correct count.
+
+The program is set to run immediately.
+Reset Button will set the program to initial state.
+
+The program will calculate the total of all integers between 1 and 3.
+
+Reset Button -	ButtonC
+
+LED Output - 	LED0
+		LED1
+		LED2
+		LED3
+
+LED ZERO -	LED14
+LED Overflow -	LED15
+
+The output will be shown in the first seven-segment.

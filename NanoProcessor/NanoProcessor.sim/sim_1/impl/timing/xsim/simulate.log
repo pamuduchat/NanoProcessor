@@ -1,0 +1,16 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+WARNING: "D:\ufisuyh\Vivado\2018.2\data/verilog/src/unisims/LDCE.v" Line 171: Timing violation in scope /TB_NanoProcessor/UUT/instruction_decoder/RegA_reg[0]/TChk171_329 at time 186611 ps $width (posedge G,(0:0:0),0,notifier) 
+WARNING: "D:\ufisuyh\Vivado\2018.2\data/verilog/src/unisims/LDCE.v" Line 171: Timing violation in scope /TB_NanoProcessor/UUT/instruction_decoder/RegA_reg[1]/TChk171_329 at time 186611 ps $width (posedge G,(0:0:0),0,notifier) 
+WARNING: "D:\ufisuyh\Vivado\2018.2\data/verilog/src/unisims/LDCE.v" Line 169: Timing violation in scope /TB_NanoProcessor/UUT/instruction_decoder/ImVal_reg[1]/TChk169_327 at time 187407 ps $width (negedge G,(0:0:0),0,notifier) 
+WARNING: "D:\ufisuyh\Vivado\2018.2\data/verilog/src/unisims/LDCE.v" Line 169: Timing violation in scope /TB_NanoProcessor/UUT/instruction_decoder/ImVal_reg[2]/TChk169_327 at time 187407 ps $width (negedge G,(0:0:0),0,notifier) 
+WARNING: "D:\ufisuyh\Vivado\2018.2\data/verilog/src/unisims/LDCE.v" Line 169: Timing violation in scope /TB_NanoProcessor/UUT/instruction_decoder/ImVal_reg[3]/TChk169_327 at time 187407 ps $width (negedge G,(0:0:0),0,notifier) 
+WARNING: "D:\ufisuyh\Vivado\2018.2\data/verilog/src/unisims/LDCE.v" Line 169: Timing violation in scope /TB_NanoProcessor/UUT/instruction_decoder/LoadSelect_reg/L7/TChk169_327 at time 188325 ps $width (negedge G,(0:0:0),0,notifier) 
+WARNING: "D:\ufisuyh\Vivado\2018.2\data/verilog/src/unisims/LDCE.v" Line 168: Timing violation in scope /TB_NanoProcessor/UUT/instruction_decoder/Jump_reg/TChk168_326 at time 306632 ps $width (negedge CLR,(0:0:0),0,notifier) 
+WARNING: "D:\ufisuyh\Vivado\2018.2\data/verilog/src/unisims/LDCE.v" Line 171: Timing violation in scope /TB_NanoProcessor/UUT/instruction_decoder/Jump_reg/TChk171_329 at time 306884 ps $width (posedge G,(0:0:0),0,notifier) 
+WARNING: "D:\ufisuyh\Vivado\2018.2\data/verilog/src/unisims/LDCE.v" Line 171: Timing violation in scope /TB_NanoProcessor/UUT/instruction_decoder/ImVal_reg[1]/TChk171_329 at time 307072 ps $width (posedge G,(0:0:0),0,notifier) 
+WARNING: "D:\ufisuyh\Vivado\2018.2\data/verilog/src/unisims/LDCE.v" Line 171: Timing violation in scope /TB_NanoProcessor/UUT/instruction_decoder/ImVal_reg[2]/TChk171_329 at time 307072 ps $width (posedge G,(0:0:0),0,notifier) 
+WARNING: "D:\ufisuyh\Vivado\2018.2\data/verilog/src/unisims/LDCE.v" Line 171: Timing violation in scope /TB_NanoProcessor/UUT/instruction_decoder/ImVal_reg[3]/TChk171_329 at time 307072 ps $width (posedge G,(0:0:0),0,notifier) 
+WARNING: "D:\ufisuyh\Vivado\2018.2\data/verilog/src/unisims/LDCE.v" Line 169: Timing violation in scope /TB_NanoProcessor/UUT/instruction_decoder/LoadSelect_reg/L7/TChk169_327 at time 307919 ps $width (negedge G,(0:0:0),0,notifier) 
+WARNING: "D:\ufisuyh\Vivado\2018.2\data/verilog/src/unisims/LDCE.v" Line 171: Timing violation in scope /TB_NanoProcessor/UUT/instruction_decoder/LoadSelect_reg/L7/TChk171_329 at time 307990 ps $width (posedge G,(0:0:0),0,notifier) 
+WARNING: "D:\ufisuyh\Vivado\2018.2\data/verilog/src/unisims/LDCE.v" Line 169: Timing violation in scope /TB_NanoProcessor/UUT/instruction_decoder/LoadSelect_reg/L7/TChk169_327 at time 308249 ps $width (negedge G,(0:0:0),0,notifier) 

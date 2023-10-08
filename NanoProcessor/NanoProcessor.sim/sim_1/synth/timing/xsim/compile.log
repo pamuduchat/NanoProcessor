@@ -1,0 +1,17 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Sahiru/Lab9/NanoProcessor/NanoProcessor/NanoProcessor.sim/sim_1/synth/timing/xsim/TB_NanoProcessor_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LDCP_UNIQ_BASE_
+INFO: [VRFC 10-311] analyzing module D_FF
+INFO: [VRFC 10-311] analyzing module D_FF_2
+INFO: [VRFC 10-311] analyzing module D_FF_3
+INFO: [VRFC 10-311] analyzing module Decode_3_to_8
+INFO: [VRFC 10-311] analyzing module Decoder_2_to_4
+INFO: [VRFC 10-311] analyzing module NanoProcessor
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-311] analyzing module bit4reg
+INFO: [VRFC 10-311] analyzing module bit4reg_0
+INFO: [VRFC 10-311] analyzing module bit4reg_1
+INFO: [VRFC 10-311] analyzing module instrctuion_decoder
+INFO: [VRFC 10-311] analyzing module register_bank
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Sahiru/Lab9/NanoProcessor/NanoProcessor/NanoProcessor.srcs/sim_1/new/TB_NanoProcessor.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TB_NanoProcessor

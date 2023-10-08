@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Jul 28 08:54:25 2022
+# Process ID: 1752
+# Current directory: D:/NanoProcessor (2)/NanoProcessor_project/NanoProcessor
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1764 D:\NanoProcessor (2)\NanoProcessor_project\NanoProcessor\NanoProcessor.xpr
+# Log file: D:/NanoProcessor (2)/NanoProcessor_project/NanoProcessor/vivado.log
+# Journal file: D:/NanoProcessor (2)/NanoProcessor_project/NanoProcessor\vivado.jou
+#-----------------------------------------------------------
+start_gui
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Jul 28 08:54:44 2022...

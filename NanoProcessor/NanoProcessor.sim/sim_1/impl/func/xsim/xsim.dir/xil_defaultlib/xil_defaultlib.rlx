@@ -1,0 +1,6 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/Sahiru/Lab9/NanoProcessor/NanoProcessor/NanoProcessor.sim/sim_1/impl/func/xsim/TB_NanoProcessor_func_impl.v,1658839783,verilog,,,,D_FF;D_FF_2;D_FF_3;Decode_3_to_8;Decoder_2_to_4;NanoProcessor;PC;bit4reg;bit4reg_0;bit4reg_1;glbl;instrctuion_decoder;register_bank,,,,,,,,
+D:/Sahiru/Lab9/NanoProcessor/NanoProcessor/NanoProcessor.srcs/sim_1/new/TB_NanoProcessor.vhd,1658838888,vhdl,,,,tb_nanoprocessor,,,,,,,,
